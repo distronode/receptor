@@ -1,0 +1,4 @@
+pbr
+sphinx
+sphinx-distronode-theme
+six
